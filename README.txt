@@ -1,0 +1,4 @@
+# DataStructureAndAlgorithm
+# 编译环境
+github中主要为代码，要运行还需要一定的编译环境
+安装anoncoda,pycharm，并将pycharm的编译器更改为anoncoda的python编译器。
